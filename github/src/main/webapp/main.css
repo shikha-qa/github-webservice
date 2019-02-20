@@ -1,0 +1,152 @@
+*
+{
+
+	margin:0;
+	padding:0;
+}
+
+.bg-image{
+	height:100%;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzX2C-PaFbR41kcXPBiE8zgtpI5CdSiJE4fS7kohWdFVuSZtlA");
+	background-repeat: no-repeat;
+	
+	background-size: cover;
+    background-position: center;
+	
+}
+.bg-login{
+background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/02/68/16/50578fb0186f0b7.jpg");
+background-repeat: no-repeat;
+height:100vh;
+    
+	background-size: cover;
+    background-position: center;
+ 
+    
+}
+
+.main{
+	display:flex;
+	flex-direction:column;
+    align-items: center;
+    justify-content:center;
+    
+	}
+	
+
+	.title{
+		text-align: center;	
+		font-size: 2rem;
+		padding-top: 9rem;
+		
+		
+	
+	}
+
+	.heading{
+	
+		text-align:center;
+		color:white;
+		
+	}
+	
+	.button-container
+	{
+		padding-top:50px;
+		text-align: center;
+		
+	}
+	button
+	{
+		padding: 0.5rem;
+		margin-top: 1rem;
+		border-radius: 0.5rem;
+		background-color:ivory;
+
+	}
+	
+	.main-signup{
+		text-align: center;
+		background-position: center;
+		height:100vh;
+		display:flex;
+		align-items: center;
+		justify-content: center;
+		background-image: url("https://singularityhub.com/wp-content/uploads/2018/10/abstract-blurred-background-casino_shutterstock_1126650161.jpg");
+	}
+	.form-container{
+	margin:100px;
+	
+	}
+	
+	.name{
+	
+	padding:20px;
+	}
+	.fname{
+	flex-grow: 1;
+	padding 20px;
+	}
+	.lname{
+	flex-grow: 1;
+	}
+	.email{
+	width:100%;
+	
+	}
+	.password
+	{
+		width:100%;
+	
+	}
+	.submit{
+	width:100%;
+	
+	}
+	.text{
+	width:100%;
+	}
+	header{
+	display:flex;
+	
+		
+	}
+	.header-links
+	{
+		display:flex;
+		padding:30px;
+		
+	
+	}
+	
+	.logo{
+	flex-grow:4;
+	}
+	.hlink{
+	padding:5px;
+	}
+	#main{
+	height:100%;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content:center;
+	text-align:center;
+	}
+	footer{
+	
+	text-align: center;
+	
+	padding:10px;
+	}
+	.bg-home{
+	
+	
+    background-image: url("https://previews.123rf.com/images/themorningglory/themorningglory1612/themorningglory161200648/68816967-blurred-background-home-mart-product-on-shelf-at-store-with-bokeh.jpg");
+
+	}
+	input{
+
+		margin-top:1rem;
+	}
+	
